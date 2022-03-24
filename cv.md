@@ -53,3 +53,26 @@ palindrome('WordToCheck');
 ```
 
 ---
+
+## Experience:
+
+- **CODING SCHOOL TEACHMESKILLS _(Dec 2020 - Jul 2021)_**
+
+---
+
+## Education:
+
+- **BREST STATE UNIVERSITY NAMED A.S. PUSHKIN _(2013 – 2017)_**
+  > Department of Lawyer
+  > Specialization: Jurisprudence
+- **BREST STATE POLYTECHNICAL COLLEGE _(2011 – 2013)_**
+  > Department of Lawyer
+  > Specialization: Jurisprudence
+
+---
+
+## Languages:
+
+- **Russian** - Native
+- **English** - A2 (B1 in process...) (I study at the Underground Language Club - _Minsk_)
+- **Polish** - B2-C1
