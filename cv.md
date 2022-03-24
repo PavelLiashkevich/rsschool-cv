@@ -21,3 +21,35 @@ I’m interested in Web Development because this occupation provides endless pos
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
 ---
+
+## Skills:
+
+- HTML
+- CSS (Preprocessor SCSS, BEM methodology).
+- JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript(Fetch, Axios), ES5/ES6, DOM), JSON.
+- React JS, Redux (intermediate level knowledge).
+- Version control: Git (remote service GitHub).
+- Module Bundlers: Gulp, Webpack.
+- Node.js (Basic knowledge).
+- TypeScript (Basic knowledge).
+- Figma (For web development).
+- Editors: VSCode, Sublime.
+
+---
+
+## Code example:
+
+**How To Check for Palindromes in JavaScript:**
+
+```javascript
+const palindrome = string => {
+	if (string === string.split('').reverse().join('')) {
+		console.log('It's a palindrome');
+	} else {
+		console.log('It's not a palindrome');
+	}
+};
+palindrome('WordToCheck');
+```
+
+---
